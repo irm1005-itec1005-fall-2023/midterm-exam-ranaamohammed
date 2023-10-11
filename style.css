@@ -40,8 +40,7 @@ body {
 
 .container {
   width: 400px;
-  margin: 0 auto;
-  padding: 1rem;
+  padding: 0.5rem;
   border-radius: 0.5rem;
   
 }
@@ -91,14 +90,14 @@ body {
 
 .card-button button {
   align-items: center;
-  margin-right: 5rem;
-  margin-left: 5rem;
+  margin-left: 2.5rem;
   padding: 0.5rem;
   font-weight: bold;
   font-size: 2rem;
   background-color: #5e2e11;
-  border-radius: 10px;
+  border-radius: 20px;
   color: white;
+  width: 300px
   
 
 }
